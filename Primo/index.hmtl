@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>B2</title>
+  <meta charset="UTF-8">
+
+</head>
+
+<body>
+
+  <h1>Funçao para verificar se um número é primo</h1>
+  <input type="number" id="Inserir" placeholder="Digite um número">
+  <button onclick="Checagem()">Verificar</button>
+  <p id="Resultado"></p>
+
+  <script src="index.js"></script>
+
+</body>
+
+</html>
