@@ -2,8 +2,8 @@ function Fatorial () {
         
           // Obtem o elemento
         
-      const inputNumber = document.getElementById( "Inserir" );
-      const result = document.getElementById( "Resultado" );
+      const inputNumber = document.getElementById( "inputNumber" );
+      const result = document.getElementById( "result" );
         
         // Obtem o valor e converte para um numero inteiro
         
